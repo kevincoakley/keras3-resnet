@@ -57,5 +57,5 @@ torchaudio @ https://download.pytorch.org/whl/cu121_full/torchaudio-2.4.0%2Bcu12
 torchvision @ https://download.pytorch.org/whl/cu121_full/torchvision-0.19.0%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=53c7ee4a98c8464ec964a6ab3804f5925b19bac698ef728f148bffebe27a9081
 typing_extensions==4.12.2
 urllib3==2.2.2
-Werkzeug==3.0.4
+Werkzeug==3.0.6
 wrapt==1.16.0
