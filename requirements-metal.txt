@@ -13,7 +13,7 @@ idna==3.8
 jax==0.4.26
 jax-metal==0.1.0
 jaxlib==0.4.26
-Jinja2==3.1.4
+Jinja2==3.1.5
 keras==3.4.1
 libclang==18.1.1
 Markdown==3.7
